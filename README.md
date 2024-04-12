@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zu Zi Po Po Myo</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
