@@ -1,4 +1,4 @@
-# ✨ Hi there! I'm Zu Zi Po Po Myo 👩‍💻  
+# ✨ Hi there! I'm Zuzi Po Po Myo 👩‍💻  
 🎯 Frontend Developer | 🌱 Always Learning
 
 ---
