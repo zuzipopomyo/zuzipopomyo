@@ -26,9 +26,6 @@ Fun fact: I love turning wireframes into fully responsive, pixel-perfect website
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" />
   </a>
-  <a href="https://authjs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://authjs.dev/img/logo-dark.png" width="40" alt="Auth.js" />
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" alt="React" />
   </a>
