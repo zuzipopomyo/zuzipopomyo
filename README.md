@@ -1,59 +1,46 @@
-<h1 align="center">Hi there! 👋 I'm Zu Zi Po Po Myo</h1>
-<h3 align="center">💻 A Passionate Frontend Developer | 🧠 Lifelong Learner | 🎨 UI Enthusiast</h3>
-
-<p align="center">
-  I'm a frontend developer who loves building beautiful and responsive web interfaces. I enjoy solving problems with clean code, bringing ideas to life in the browser, and constantly improving my skills. Whether it's crafting components with React ⚛️, styling with TailwindCSS 💅, or managing state like a pro with Redux 🎯 — I'm always excited to learn and build! 🚀
-</p>
-
-<p align="center">
-  Let's code, learn, and create something amazing together! 🌈✨
-</p>
+# ✨ Hi there! I'm Zu Zi Po Po Myo 👩‍💻  
+🎯 Frontend Developer | 💡 Creative Thinker | 🌱 Always Learning
 
 ---
 
-### 🌐 Connect with Me
+I’m a passionate frontend developer from Myanmar 🇲🇲 who enjoys crafting modern and responsive web applications.
 
-<p align="left">
-  <a href="https://linkedin.com/in/zuzipopomyo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zu Zi Po Po Myo" height="30" width="40" />
-  </a>
-</p>
+I specialize in:
+- Building fast and SEO-friendly apps with **Next.js**
+- Styling beautifully with **TailwindCSS**
+- Writing clean code using **TypeScript & React**
+- Collaborating in teams and using **Git** efficiently
 
----
+Currently exploring:
+- ⚡ App Router in Next.js 13+
+- 📦 TanStack Query for data fetching
+- 🎨 UI/UX workflows using Figma
 
-### 🛠️ Skills & Tools
-
-#### 🌐 Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</p>
-
-#### 🧰 Libraries & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
-
-#### ⚙️ Tools & Platforms
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-</p>
+Fun fact: I love turning wireframes into fully responsive, pixel-perfect websites! 💖
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zuzipopomyo&show_icons=true&locale=en&layout=compact" alt="Zu Zi Po Po Myo's Top Languages" />
-</p>
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg)  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zuzipopomyo)
+
+---
+
+## 📊 GitHub Stats
+
+![Zu Zi Po Po Myo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuzipopomyo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuzipopomyo&layout=compact&theme=radical)
