@@ -1,5 +1,5 @@
 # ✨ Hi there! I'm Zuzi Po Po Myo 👩‍💻  
-🎯 Frontend Developer | 🌱 Always Learning
+🎯 Frontend Developer
 
 ---
 
@@ -16,7 +16,6 @@ Currently exploring:
 - 📦 TanStack Query for data fetching
 - 🎨 UI/UX workflows using Figma
 
-Fun fact: I love turning wireframes into fully responsive, pixel-perfect websites! 💖
 
 ---
 
