@@ -3,7 +3,7 @@
 
 ---
 
-I’m a passionate frontend developer from Myanmar 🇲🇲 who enjoys crafting modern and responsive web applications.
+I’m a passionate frontend developer who enjoys crafting modern and responsive web applications.
 
 I specialize in:
 - Building fast and SEO-friendly apps with **Next.js**
